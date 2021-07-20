@@ -1,0 +1,57 @@
+Boolean Wrapper Class
+	Convert Java Boolean object to boolean primitive example
+	Convert Java String Object to Boolean Object
+	Convert Java boolean Primitive to Boolean object
+	Convert java Boolean object to String object Example
+
+Byte Wrapper Class
+	Convert Byte object to String object
+	Convert Byte to numeric primitive data types example
+	Convert Java String to Byte example
+	Convert String to primitive byte Example{samjla nhi}
+	Convert byte to Byte object Example 
+
+Double Wrapper Class
+	Convert Double object to String object
+	Convert Java String to Double example
+	Convert java Double to numeric primitive data types example  {samjl nhi}
+	Convert java double to Double object Example
+
+Float Wrapper Class
+	Convert Java Float Object to String Object Example
+	Convert Java Float to Numeric Primitive Data Types Example
+	Convert Java String to Float Object Example
+	Convert Java float Primitive Value to Float Object Example
+
+Integer Wrapper Class
+	Convert Integer to Java String object
+	Convert Java Integer object to Numeric primitive types
+	Convert Java String to Integer object Example
+	Convert String to int Example
+	Convert binary number to decimal number example {mhi samjl}
+	Convert decimal integer to binary number example {mhi samjl}
+	Convert decimal integer to hexadecimal number example
+	Convert decimal integer to octal number example
+	Convert hexadecimal number to decimal number example
+	Convert java int to Integer object Example
+	Convert octal number to decimal number example
+Long Wrapper Class
+	Convert Java String to Long wrapper example    
+	Convert Long object to String object
+	Convert Long to numeric primitive data types example
+	Convert String to long(datatype) Example {double}
+	Convert long primitive to Long object Example
+Short Wrapper Class
+	Convert Java String to Short example
+	Convert Short object to String object
+	Convert Short to numeric primitive data types example
+	Convert String to short primitive Example
+	Convert short primitive to Short object Example
+
+
+
+
+long--> data type 
+Long--> wrappper
+
+
